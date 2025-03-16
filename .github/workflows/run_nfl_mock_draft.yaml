@@ -6,9 +6,9 @@ name: run nfl mock draft
   #   - cron: "00 23 * * *"    #runs at 23:00 UTC everyday
 
 on:
-  # Schedule the workflow to run every day at 1:00 AM (UTC)
   schedule:
-    - cron: '15 */3 * * *'
+    - cron: '15 */3 1-31 8-12 *'  # August to December
+    - cron: '15 */3 1-30 1-4 *'   # January to April
   # Allows the workflow to be triggered manually
   workflow_dispatch:
 
