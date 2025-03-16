@@ -113,7 +113,7 @@ for u in range(1,4):
 
 with open('last_updated.txt', 'a') as fp:
     fp.write(str(datetime.datetime.now())[:19])
-df.to_csv(f'.data/new_nfl_mock_draft_db_{year}.csv',index=False)
+df.to_csv(f'./data/new_nfl_mock_draft_db_{year}.csv',index=False)
 
 
 
