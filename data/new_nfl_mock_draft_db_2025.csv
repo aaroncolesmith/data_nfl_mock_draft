@@ -393,6 +393,38 @@ pick,team,team_img,player,player_details,source,date
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Kenneth Grant,DL | Michigan,The Athletic,2025-04-07
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Donovan Jackson,IOL | Ohio State,The Athletic,2025-04-07
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Malaki Starks,S | Georgia,The Athletic,2025-04-07
+1,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Cameron Ward,QB | Miami (FL),Football Nick,2025-04-07
+2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jaxson Dart,QB | Mississippi,Football Nick,2025-04-07
+3,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Travis Hunter,CB | Colorado,Football Nick,2025-04-07
+4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Josh Simmons,OT | Ohio State,Football Nick,2025-04-07
+5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Ashton Jeanty,RB | Boise State,Football Nick,2025-04-07
+6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Abdul Carter,EDGE | Penn State,Football Nick,2025-04-07
+7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Will Johnson,CB | Michigan,Football Nick,2025-04-07
+8,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Shemar Stewart,EDGE | Texas A&M,Football Nick,2025-04-07
+9,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Armand Membou,OT | Missouri,Football Nick,2025-04-07
+10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jahdae Barron,CB | Texas,Football Nick,2025-04-07
+11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mason Graham,DL | Michigan,Football Nick,2025-04-07
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tyler Warren,TE | Penn State,Football Nick,2025-04-07
+13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Matthew Golden,WR | Texas,Football Nick,2025-04-07
+14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Will Campbell,OT | LSU,Football Nick,2025-04-07
+15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Colston Loveland,TE | Michigan,Football Nick,2025-04-07
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Tetairoa McMillan,WR | Arizona,Football Nick,2025-04-07
+17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Omarion Hampton,RB | North Carolina,Football Nick,2025-04-07
+18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Kenneth Grant,DL | Michigan,Football Nick,2025-04-07
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Tyler Booker,IOL | Alabama,Football Nick,2025-04-07
+20,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Grey Zabel,IOL | North Dakota State,Football Nick,2025-04-07
+21,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Derrick Harmon,DL | Oregon,Football Nick,2025-04-07
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Darius Alexander,DL | Toledo,Football Nick,2025-04-07
+23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jihaad Campbell,LB | Alabama,Football Nick,2025-04-07
+24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,TreVeyon Henderson,RB | Ohio State,Football Nick,2025-04-07
+25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Jalon Walker,EDGE | Georgia,Football Nick,2025-04-07
+26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Emeka Egbuka,WR | Ohio StatePOPULAR,Football Nick,2025-04-07
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyleik Williams,DL | Ohio State,Football Nick,2025-04-07
+28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jayden Higgins,WR | Iowa StateRARE,Football Nick,2025-04-07
+29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Quinshon Judkins,RB | Ohio StateRARE,Football Nick,2025-04-07
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Kelvin Banks,OT | Texas,Football Nick,2025-04-07
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Maxwell Hairston,CB | Kentucky,Football Nick,2025-04-07
+32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Donovan Jackson,IOL | Ohio State,Football Nick,2025-04-07
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,The Draft Network,2025-04-07
 2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Shedeur Sanders,QB | Colorado,The Draft Network,2025-04-07
 3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn State,The Draft Network,2025-04-07
@@ -2185,38 +2217,6 @@ pick,team,team_img,player,player_details,source,date
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Omarion Hampton,RB | North Carolina,Eagles Wire,2025-03-31
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Derrick Harmon,DL | Oregon,Eagles Wire,2025-03-31
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nic Scourton,EDGE | Texas A&M,Eagles Wire,2025-03-31
-1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Pro Football Focus,2025-03-31
-2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Pro Football Focus,2025-03-31
-3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Shedeur Sanders,QB | Colorado,Pro Football Focus,2025-03-31
-4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Travis Hunter,CB | Colorado,Pro Football Focus,2025-03-31
-5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Mason Graham,DL | MichiganPOPULAR,Pro Football Focus,2025-03-31
-6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Tetairoa McMillan,WR | Arizona,Pro Football Focus,2025-03-31
-7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Tyler Warren,TE | Penn State,Pro Football Focus,2025-03-31
-8,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Armand Membou,OT | Missouri,Pro Football Focus,2025-03-31
-9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Will Campbell,OT | LSU,Pro Football Focus,2025-03-31
-10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Ashton Jeanty,RB | Boise State,Pro Football Focus,2025-03-31
-11,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | Georgia,Pro Football Focus,2025-03-31
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jihaad Campbell,LB | Alabama,Pro Football Focus,2025-03-31
-13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kelvin Banks,OT | TexasPOPULAR,Pro Football Focus,2025-03-31
-14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Colston Loveland,TE | MichiganPOPULAR,Pro Football Focus,2025-03-31
-15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Nick Emmanwori,S | South Carolina,Pro Football Focus,2025-03-31
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jahdae Barron,CB | Texas,Pro Football Focus,2025-03-31
-17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Shemar Stewart,EDGE | Texas A&M,Pro Football Focus,2025-03-31
-18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Mykel Williams,EDGE | Georgia,Pro Football Focus,2025-03-31
-19,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Will Johnson,CB | Michigan,Pro Football Focus,2025-03-31
-20,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Omarion Hampton,RB | North CarolinaPOPULAR,Pro Football Focus,2025-03-31
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Malaki Starks,S | Georgia,Pro Football Focus,2025-03-31
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Mike Green,EDGE | Marshall,Pro Football Focus,2025-03-31
-23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Donovan Ezeiruaku,EDGE | Boston College,Pro Football Focus,2025-03-31
-24,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Grey Zabel,IOL | North Dakota State,Pro Football Focus,2025-03-31
-25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Matthew Golden,WR | Texas,Pro Football Focus,2025-03-31
-26,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Kenneth Grant,DL | Michigan,Pro Football Focus,2025-03-31
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Booker,IOL | AlabamaPOPULAR,Pro Football Focus,2025-03-31
-28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,James Pearce Jr.,EDGE | Tennessee,Pro Football Focus,2025-03-31
-29,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Luther Burden,WR | Missouri,Pro Football Focus,2025-03-31
-30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Trey Amos,CB | Mississippi,Pro Football Focus,2025-03-31
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Walter Nolen,DL | MississippiPOPULAR,Pro Football Focus,2025-03-31
-32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Derrick Harmon,DL | Oregon,Pro Football Focus,2025-03-31
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,NFL Spin Zone,2025-03-31
 2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Abdul Carter,EDGE | Penn StatePOPULAR,NFL Spin Zone,2025-03-31
 3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Travis Hunter,CB | ColoradoPOPULAR,NFL Spin Zone,2025-03-31
@@ -2249,6 +2249,38 @@ pick,team,team_img,player,player_details,source,date
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Tyleik Williams,DL | Ohio State,NFL Spin Zone,2025-03-31
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Grey Zabel,IOL | North Dakota State,NFL Spin Zone,2025-03-31
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Walter Nolen,DL | Mississippi,NFL Spin Zone,2025-03-31
+1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Pro Football Focus,2025-03-31
+2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Pro Football Focus,2025-03-31
+3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Shedeur Sanders,QB | Colorado,Pro Football Focus,2025-03-31
+4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Travis Hunter,CB | Colorado,Pro Football Focus,2025-03-31
+5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Mason Graham,DL | MichiganPOPULAR,Pro Football Focus,2025-03-31
+6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Tetairoa McMillan,WR | Arizona,Pro Football Focus,2025-03-31
+7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Tyler Warren,TE | Penn State,Pro Football Focus,2025-03-31
+8,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Armand Membou,OT | Missouri,Pro Football Focus,2025-03-31
+9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Will Campbell,OT | LSU,Pro Football Focus,2025-03-31
+10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Ashton Jeanty,RB | Boise State,Pro Football Focus,2025-03-31
+11,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | Georgia,Pro Football Focus,2025-03-31
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jihaad Campbell,LB | Alabama,Pro Football Focus,2025-03-31
+13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kelvin Banks,OT | TexasPOPULAR,Pro Football Focus,2025-03-31
+14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Colston Loveland,TE | MichiganPOPULAR,Pro Football Focus,2025-03-31
+15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Nick Emmanwori,S | South Carolina,Pro Football Focus,2025-03-31
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jahdae Barron,CB | Texas,Pro Football Focus,2025-03-31
+17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Shemar Stewart,EDGE | Texas A&M,Pro Football Focus,2025-03-31
+18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Mykel Williams,EDGE | Georgia,Pro Football Focus,2025-03-31
+19,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Will Johnson,CB | Michigan,Pro Football Focus,2025-03-31
+20,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Omarion Hampton,RB | North CarolinaPOPULAR,Pro Football Focus,2025-03-31
+21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Malaki Starks,S | Georgia,Pro Football Focus,2025-03-31
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Mike Green,EDGE | Marshall,Pro Football Focus,2025-03-31
+23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Donovan Ezeiruaku,EDGE | Boston College,Pro Football Focus,2025-03-31
+24,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Grey Zabel,IOL | North Dakota State,Pro Football Focus,2025-03-31
+25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Matthew Golden,WR | Texas,Pro Football Focus,2025-03-31
+26,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Kenneth Grant,DL | Michigan,Pro Football Focus,2025-03-31
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Booker,IOL | AlabamaPOPULAR,Pro Football Focus,2025-03-31
+28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,James Pearce Jr.,EDGE | Tennessee,Pro Football Focus,2025-03-31
+29,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Luther Burden,WR | Missouri,Pro Football Focus,2025-03-31
+30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Trey Amos,CB | Mississippi,Pro Football Focus,2025-03-31
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Walter Nolen,DL | MississippiPOPULAR,Pro Football Focus,2025-03-31
+32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Derrick Harmon,DL | Oregon,Pro Football Focus,2025-03-31
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,NFL Trade Rumors,2025-03-31
 2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Abdul Carter,EDGE | Penn StatePOPULAR,NFL Trade Rumors,2025-03-31
 3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Travis Hunter,CB | ColoradoPOPULAR,NFL Trade Rumors,2025-03-31
@@ -3283,35 +3315,3 @@ pick,team,team_img,player,player_details,source,date
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Malaki Starks,S | Georgia,Fantasy Pros,2025-03-27
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Conerly Jr.,OT | Oregon,Fantasy Pros,2025-03-27
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Derrick Harmon,DL | Oregon,Fantasy Pros,2025-03-27
-1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Eagles Wire,2025-03-27
-2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | Colorado,Eagles Wire,2025-03-27
-3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Shedeur Sanders,QB | Colorado,Eagles Wire,2025-03-27
-4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Abdul Carter,EDGE | Penn State,Eagles Wire,2025-03-27
-5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Mason Graham,DL | MichiganPOPULAR,Eagles Wire,2025-03-27
-6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Tetairoa McMillan,WR | Arizona,Eagles Wire,2025-03-27
-7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Will Campbell,OT | LSU,Eagles Wire,2025-03-27
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jahdae Barron,CB | Texas,Eagles Wire,2025-03-27
-9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Ashton Jeanty,RB | Boise State,Eagles Wire,2025-03-27
-10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Tyler Warren,TE | Penn StatePOPULAR,Eagles Wire,2025-03-27
-11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Armand Membou,OT | Missouri,Eagles Wire,2025-03-27
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Mike Green,EDGE | Marshall,Eagles Wire,2025-03-27
-13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jihaad Campbell,LB | Alabama,Eagles Wire,2025-03-27
-14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Malaki Starks,S | Georgia,Eagles Wire,2025-03-27
-15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Will Johnson,CB | Michigan,Eagles Wire,2025-03-27
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Donovan Ezeiruaku,EDGE | Boston College,Eagles Wire,2025-03-27
-17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,James Pearce Jr.,EDGE | Tennessee,Eagles Wire,2025-03-27
-18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Luther Burden,WR | Missouri,Eagles Wire,2025-03-27
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Kenneth Grant,DL | Michigan,Eagles Wire,2025-03-27
-20,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Emeka Egbuka,WR | Ohio State,Eagles Wire,2025-03-27
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Josh Simmons,OT | Ohio State,Eagles Wire,2025-03-27
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Matthew Golden,WR | Texas,Eagles Wire,2025-03-27
-23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Mykel Williams,EDGE | Georgia,Eagles Wire,2025-03-27
-24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Walter Nolen,DL | Mississippi,Eagles Wire,2025-03-27
-25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Kelvin Banks,OT | Texas,Eagles Wire,2025-03-27
-26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Jalon Walker,EDGE | Georgia,Eagles Wire,2025-03-27
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Shemar Stewart,EDGE | Texas A&M,Eagles Wire,2025-03-27
-28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Nic Scourton,EDGE | Texas A&M,Eagles Wire,2025-03-27
-29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Omarion Hampton,RB | North Carolina,Eagles Wire,2025-03-27
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Colston Loveland,TE | Michigan,Eagles Wire,2025-03-27
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Grey Zabel,IOL | North Dakota State,Eagles Wire,2025-03-27
-32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Derrick Harmon,DL | Oregon,Eagles Wire,2025-03-27
