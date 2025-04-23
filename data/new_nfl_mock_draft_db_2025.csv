@@ -24,13 +24,36 @@ pick,team,team_img,player,player_details,source,date
 23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jalon Walker,EDGE | Georgia,Pro Football Network,2025-04-23
 24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Nick Emmanwori,S | South Carolina,Pro Football Network,2025-04-23
 25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Josh Simmons,OT | Ohio StatePOPULAR,Pro Football Network,2025-04-23
-26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Xavier Watts,S | Notre Dame,Pro Football Network,2025-04-23
+26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Xavier Watts,S | Notre DameRARE,Pro Football Network,2025-04-23
 27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Grey Zabel,IOL | North Dakota State,Pro Football Network,2025-04-23
 28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Shemar Stewart,EDGE | Texas A&M,Pro Football Network,2025-04-23
 29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Benjamin Morrison,CB | Notre Dame,Pro Football Network,2025-04-23
 30,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaxson Dart,QB | Mississippi,Pro Football Network,2025-04-23
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Kenneth Grant,DL | Michigan,Pro Football Network,2025-04-23
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nic Scourton,EDGE | Texas A&M,Pro Football Network,2025-04-23
+1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Walter Football,2025-04-23
+2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Walter Football,2025-04-23
+3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Walter Football,2025-04-23
+4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,Walter Football,2025-04-23
+5,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Armand Membou,OT | Missouri,Walter Football,2025-04-23
+6,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Mason Graham,DL | Michigan,Walter Football,2025-04-23
+7,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | Georgia,Walter Football,2025-04-23
+8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Kenneth Grant,DL | Michigan,Walter Football,2025-04-23
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Tyler Warren,TE | Penn State,Walter Football,2025-04-23
+10,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Kelvin Banks,OT | Texas,Walter Football,2025-04-23
+11,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tetairoa McMillan,WR | Arizona,Walter Football,2025-04-23
+12,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Malaki Starks,S | Georgia,Walter Football,2025-04-23
+13,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Mykel Williams,EDGE | Georgia,Walter Football,2025-04-23
+14,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Johnson,CB | Michigan,Walter Football,2025-04-23
+15,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Derrick Harmon,DL | Oregon,Walter Football,2025-04-23
+16,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Kenneth Grant,DL | Michigan,Walter Football,2025-04-23
+17,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Matthew Golden,WR | Texas,Walter Football,2025-04-23
+18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jahdae Barron,CB | Texas,Walter Football,2025-04-23
+19,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Josh Conerly Jr.,OT | Oregon,Walter Football,2025-04-23
+20,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Maxwell Hairston,CB | Kentucky,Walter Football,2025-04-23
+21,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Tyler Booker,IOL | Alabama,Walter Football,2025-04-23
+22,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Trey Amos,CB | Mississippi,Walter Football,2025-04-23
+23,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Simmons,OT | Ohio State,Walter Football,2025-04-23
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Sports Gambling Podcast,2025-04-22
 2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Sports Gambling Podcast,2025-04-22
 3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Sports Gambling Podcast,2025-04-22
@@ -473,7 +496,7 @@ pick,team,team_img,player,player_details,source,date
 25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Josh Simmons,OT | Ohio StatePOPULAR,For The Win,2025-04-22
 26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Colston Loveland,TE | Michigan,For The Win,2025-04-22
 27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Grey Zabel,IOL | North Dakota State,For The Win,2025-04-22
-28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Landon Jackson,EDGE | ArkansasRARE,For The Win,2025-04-22
+28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Landon Jackson,EDGE | Arkansas,For The Win,2025-04-22
 29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Nic Scourton,EDGE | Texas A&M,For The Win,2025-04-22
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Maxwell Hairston,CB | Kentucky,For The Win,2025-04-22
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jonah Savaiinaea,IOL | ArizonaRARE,For The Win,2025-04-22
@@ -520,70 +543,6 @@ pick,team,team_img,player,player_details,source,date
 8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | GeorgiaPOPULAR,The Athletic,2025-04-22
 9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Tyler Warren,TE | Penn State,The Athletic,2025-04-22
 10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Josh Simmons,OT | Ohio State,The Athletic,2025-04-22
-1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,NFL Spin Zone,2025-04-22
-2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,NFL Spin Zone,2025-04-22
-3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,NFL Spin Zone,2025-04-22
-4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,NFL Spin Zone,2025-04-22
-5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Armand Membou,OT | Missouri,NFL Spin Zone,2025-04-22
-6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Tetairoa McMillan,WR | Arizona,NFL Spin Zone,2025-04-22
-7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Kelvin Banks,OT | Texas,NFL Spin Zone,2025-04-22
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | GeorgiaPOPULAR,NFL Spin Zone,2025-04-22
-9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Tyler Warren,TE | Penn State,NFL Spin Zone,2025-04-22
-10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Ashton Jeanty,RB | Boise State,NFL Spin Zone,2025-04-22
-11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mason Graham,DL | Michigan,NFL Spin Zone,2025-04-22
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Matthew Golden,WR | Texas,NFL Spin Zone,2025-04-22
-13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kenneth Grant,DL | Michigan,NFL Spin Zone,2025-04-22
-14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Colston Loveland,TE | MichiganPOPULAR,NFL Spin Zone,2025-04-22
-15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Mike Green,EDGE | MarshallPOPULAR,NFL Spin Zone,2025-04-22
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Mykel Williams,EDGE | GeorgiaPOPULAR,NFL Spin Zone,2025-04-22
-17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Jihaad Campbell,LB | Alabama,NFL Spin Zone,2025-04-22
-18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Grey Zabel,IOL | North Dakota StatePOPULAR,NFL Spin Zone,2025-04-22
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jahdae Barron,CB | Texas,NFL Spin Zone,2025-04-22
-20,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Shedeur Sanders,QB | Colorado,NFL Spin Zone,2025-04-22
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Jaxson Dart,QB | MississippiPOPULAR,NFL Spin Zone,2025-04-22
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Mason Taylor,TE | LSU,NFL Spin Zone,2025-04-22
-23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Donovan Ezeiruaku,EDGE | Boston College,NFL Spin Zone,2025-04-22
-24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Malaki Starks,S | GeorgiaPOPULAR,NFL Spin Zone,2025-04-22
-25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Donovan Jackson,IOL | Ohio State,NFL Spin Zone,2025-04-22
-26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Jalen Milroe,QB | Alabama,NFL Spin Zone,2025-04-22
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Will Johnson,CB | Michigan,NFL Spin Zone,2025-04-22
-28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Tyler Booker,IOL | Alabama,NFL Spin Zone,2025-04-22
-29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Omarion Hampton,RB | North Carolina,NFL Spin Zone,2025-04-22
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Nick Emmanwori,S | South Carolina,NFL Spin Zone,2025-04-22
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Simmons,OT | Ohio State,NFL Spin Zone,2025-04-22
-32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Walter Nolen,DL | Mississippi,NFL Spin Zone,2025-04-22
-1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Penn Live,2025-04-22
-2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Penn Live,2025-04-22
-3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Penn Live,2025-04-22
-4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,Penn Live,2025-04-22
-5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Mason Graham,DL | MichiganPOPULAR,Penn Live,2025-04-22
-6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Ashton Jeanty,RB | Boise StatePOPULAR,Penn Live,2025-04-22
-7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Armand Membou,OT | MissouriPOPULAR,Penn Live,2025-04-22
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | GeorgiaPOPULAR,Penn Live,2025-04-22
-9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jaxson Dart,QB | Mississippi,Penn Live,2025-04-22
-10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Tyler Warren,TE | Penn State,Penn Live,2025-04-22
-11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Will Johnson,CB | MichiganPOPULAR,Penn Live,2025-04-22
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tetairoa McMillan,WR | ArizonaPOPULAR,Penn Live,2025-04-22
-13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jahdae Barron,CB | TexasPOPULAR,Penn Live,2025-04-22
-14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Colston Loveland,TE | MichiganPOPULAR,Penn Live,2025-04-22
-15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Mike Green,EDGE | MarshallPOPULAR,Penn Live,2025-04-22
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Mykel Williams,EDGE | GeorgiaPOPULAR,Penn Live,2025-04-22
-17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Derrick Harmon,DL | OregonPOPULAR,Penn Live,2025-04-22
-18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Matthew Golden,WR | Texas,Penn Live,2025-04-22
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jihaad Campbell,LB | AlabamaPOPULAR,Penn Live,2025-04-22
-20,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Omarion Hampton,RB | North CarolinaPOPULAR,Penn Live,2025-04-22
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Shedeur Sanders,QB | Colorado,Penn Live,2025-04-22
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Kenneth Grant,DL | MichiganPOPULAR,Penn Live,2025-04-22
-23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Shemar Stewart,EDGE | Texas A&M,Penn Live,2025-04-22
-24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Nick Emmanwori,S | South Carolina,Penn Live,2025-04-22
-25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Kelvin Banks,OT | Texas,Penn Live,2025-04-22
-26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Emeka Egbuka,WR | Ohio State,Penn Live,2025-04-22
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Malaki Starks,S | Georgia,Penn Live,2025-04-22
-28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Tyler Booker,IOL | Alabama,Penn Live,2025-04-22
-29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Donovan Ezeiruaku,EDGE | Boston College,Penn Live,2025-04-22
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Luther Burden,WR | Missouri,Penn Live,2025-04-22
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Simmons,OT | Ohio State,Penn Live,2025-04-22
-32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Walter Nolen,DL | Mississippi,Penn Live,2025-04-22
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Travis Hunter,CB | Colorado,CBS,2025-04-22
 2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Abdul Carter,EDGE | Penn State,CBS,2025-04-22
 3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Cameron Ward,QB | Miami (FL),CBS,2025-04-22
@@ -648,6 +607,102 @@ pick,team,team_img,player,player_details,source,date
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Derrick Harmon,DL | Oregon,Pro Football Focus,2025-04-22
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Donovan Jackson,IOL | Ohio State,Pro Football Focus,2025-04-22
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,James Pearce Jr.,EDGE | Tennessee,Pro Football Focus,2025-04-22
+1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,NFL Spin Zone,2025-04-22
+2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,NFL Spin Zone,2025-04-22
+3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,NFL Spin Zone,2025-04-22
+4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,NFL Spin Zone,2025-04-22
+5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Armand Membou,OT | Missouri,NFL Spin Zone,2025-04-22
+6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Tetairoa McMillan,WR | Arizona,NFL Spin Zone,2025-04-22
+7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Kelvin Banks,OT | Texas,NFL Spin Zone,2025-04-22
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | GeorgiaPOPULAR,NFL Spin Zone,2025-04-22
+9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Tyler Warren,TE | Penn State,NFL Spin Zone,2025-04-22
+10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Ashton Jeanty,RB | Boise State,NFL Spin Zone,2025-04-22
+11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mason Graham,DL | Michigan,NFL Spin Zone,2025-04-22
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Matthew Golden,WR | Texas,NFL Spin Zone,2025-04-22
+13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kenneth Grant,DL | Michigan,NFL Spin Zone,2025-04-22
+14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Colston Loveland,TE | MichiganPOPULAR,NFL Spin Zone,2025-04-22
+15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Mike Green,EDGE | MarshallPOPULAR,NFL Spin Zone,2025-04-22
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Mykel Williams,EDGE | GeorgiaPOPULAR,NFL Spin Zone,2025-04-22
+17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Jihaad Campbell,LB | Alabama,NFL Spin Zone,2025-04-22
+18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Grey Zabel,IOL | North Dakota StatePOPULAR,NFL Spin Zone,2025-04-22
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jahdae Barron,CB | Texas,NFL Spin Zone,2025-04-22
+20,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Shedeur Sanders,QB | Colorado,NFL Spin Zone,2025-04-22
+21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Jaxson Dart,QB | MississippiPOPULAR,NFL Spin Zone,2025-04-22
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Mason Taylor,TE | LSU,NFL Spin Zone,2025-04-22
+23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Donovan Ezeiruaku,EDGE | Boston College,NFL Spin Zone,2025-04-22
+24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Malaki Starks,S | GeorgiaPOPULAR,NFL Spin Zone,2025-04-22
+25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Donovan Jackson,IOL | Ohio State,NFL Spin Zone,2025-04-22
+26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Jalen Milroe,QB | Alabama,NFL Spin Zone,2025-04-22
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Will Johnson,CB | Michigan,NFL Spin Zone,2025-04-22
+28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Tyler Booker,IOL | Alabama,NFL Spin Zone,2025-04-22
+29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Omarion Hampton,RB | North Carolina,NFL Spin Zone,2025-04-22
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Nick Emmanwori,S | South Carolina,NFL Spin Zone,2025-04-22
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Simmons,OT | Ohio State,NFL Spin Zone,2025-04-22
+32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Walter Nolen,DL | Mississippi,NFL Spin Zone,2025-04-22
+1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Penn Live,2025-04-22
+2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Penn Live,2025-04-22
+3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Penn Live,2025-04-22
+4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,Penn Live,2025-04-22
+5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Mason Graham,DL | MichiganPOPULAR,Penn Live,2025-04-22
+6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Ashton Jeanty,RB | Boise StatePOPULAR,Penn Live,2025-04-22
+7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Armand Membou,OT | MissouriPOPULAR,Penn Live,2025-04-22
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | GeorgiaPOPULAR,Penn Live,2025-04-22
+9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jaxson Dart,QB | Mississippi,Penn Live,2025-04-22
+10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Tyler Warren,TE | Penn State,Penn Live,2025-04-22
+11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Will Johnson,CB | MichiganPOPULAR,Penn Live,2025-04-22
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tetairoa McMillan,WR | ArizonaPOPULAR,Penn Live,2025-04-22
+13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jahdae Barron,CB | TexasPOPULAR,Penn Live,2025-04-22
+14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Colston Loveland,TE | MichiganPOPULAR,Penn Live,2025-04-22
+15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Mike Green,EDGE | MarshallPOPULAR,Penn Live,2025-04-22
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Mykel Williams,EDGE | GeorgiaPOPULAR,Penn Live,2025-04-22
+17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Derrick Harmon,DL | OregonPOPULAR,Penn Live,2025-04-22
+18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Matthew Golden,WR | Texas,Penn Live,2025-04-22
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jihaad Campbell,LB | AlabamaPOPULAR,Penn Live,2025-04-22
+20,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Omarion Hampton,RB | North CarolinaPOPULAR,Penn Live,2025-04-22
+21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Shedeur Sanders,QB | Colorado,Penn Live,2025-04-22
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Kenneth Grant,DL | MichiganPOPULAR,Penn Live,2025-04-22
+23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Shemar Stewart,EDGE | Texas A&M,Penn Live,2025-04-22
+24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Nick Emmanwori,S | South Carolina,Penn Live,2025-04-22
+25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Kelvin Banks,OT | Texas,Penn Live,2025-04-22
+26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Emeka Egbuka,WR | Ohio State,Penn Live,2025-04-22
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Malaki Starks,S | Georgia,Penn Live,2025-04-22
+28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Tyler Booker,IOL | Alabama,Penn Live,2025-04-22
+29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Donovan Ezeiruaku,EDGE | Boston College,Penn Live,2025-04-22
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Luther Burden,WR | Missouri,Penn Live,2025-04-22
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Simmons,OT | Ohio State,Penn Live,2025-04-22
+32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Walter Nolen,DL | Mississippi,Penn Live,2025-04-22
+1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Drafttek,2025-04-22
+2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Drafttek,2025-04-22
+3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Drafttek,2025-04-22
+4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,Drafttek,2025-04-22
+5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Mason Graham,DL | MichiganPOPULAR,Drafttek,2025-04-22
+6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Armand Membou,OT | Missouri,Drafttek,2025-04-22
+7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Tyler Warren,TE | Penn State,Drafttek,2025-04-22
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | GeorgiaPOPULAR,Drafttek,2025-04-22
+9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Shedeur Sanders,QB | ColoradoPOPULAR,Drafttek,2025-04-22
+10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Ashton Jeanty,RB | Boise State,Drafttek,2025-04-22
+11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Walter Nolen,DL | Mississippi,Drafttek,2025-04-22
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Matthew Golden,WR | Texas,Drafttek,2025-04-22
+13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Will Johnson,CB | Michigan,Drafttek,2025-04-22
+14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Colston Loveland,TE | MichiganPOPULAR,Drafttek,2025-04-22
+15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Mike Green,EDGE | MarshallPOPULAR,Drafttek,2025-04-22
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Mykel Williams,EDGE | GeorgiaPOPULAR,Drafttek,2025-04-22
+17,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Omarion Hampton,RB | North Carolina,Drafttek,2025-04-22
+18,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Darius Alexander,DL | ToledoRARE,Drafttek,2025-04-22
+19,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Jayden Higgins,WR | Iowa State,Drafttek,2025-04-22
+20,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Luther Burden,WR | Missouri,Drafttek,2025-04-22
+21,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Jalen Milroe,QB | Alabama,Drafttek,2025-04-22
+22,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Tre Harris,WR | MississippiRARE,Drafttek,2025-04-22
+23,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Aireontae Ersery,OT | Minnesota,Drafttek,2025-04-22
+24,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Tyleik Williams,DL | Ohio State,Drafttek,2025-04-22
+25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Landon Jackson,EDGE | Arkansas,Drafttek,2025-04-22
+26,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Jaxson Dart,QB | Mississippi,Drafttek,2025-04-22
+27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,James Pearce Jr.,EDGE | Tennessee,Drafttek,2025-04-22
+28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,TreVeyon Henderson,RB | Ohio State,Drafttek,2025-04-22
+29,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Shavon Revel Jr.,CB | East Carolina,Drafttek,2025-04-22
+30,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Bradyn Swinson,EDGE | LSURARE,Drafttek,2025-04-22
+31,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jonah Savaiinaea,IOL | ArizonaRARE,Drafttek,2025-04-22
+32,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Alfred Collins,DL | TexasRARE,Drafttek,2025-04-22
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,NFL Trade Rumors,2025-04-22
 2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,NFL Trade Rumors,2025-04-22
 3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,NFL Trade Rumors,2025-04-22
@@ -675,11 +730,43 @@ pick,team,team_img,player,player_details,source,date
 25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Grey Zabel,IOL | North Dakota State,NFL Trade Rumors,2025-04-22
 26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Josh Conerly Jr.,OT | Oregon,NFL Trade Rumors,2025-04-22
 27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Donovan Jackson,IOL | Ohio State,NFL Trade Rumors,2025-04-22
-28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Landon Jackson,EDGE | ArkansasRARE,NFL Trade Rumors,2025-04-22
+28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Landon Jackson,EDGE | Arkansas,NFL Trade Rumors,2025-04-22
 29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Nick Emmanwori,S | South Carolina,NFL Trade Rumors,2025-04-22
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Trey Amos,CB | Mississippi,NFL Trade Rumors,2025-04-22
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Simmons,OT | Ohio State,NFL Trade Rumors,2025-04-22
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Emeka Egbuka,WR | Ohio State,NFL Trade Rumors,2025-04-22
+1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Walter Football,2025-04-22
+2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Walter Football,2025-04-22
+3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Walter Football,2025-04-22
+4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,Walter Football,2025-04-22
+5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Ashton Jeanty,RB | Boise State,Walter Football,2025-04-22
+6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Armand Membou,OT | Missouri,Walter Football,2025-04-22
+7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Mason Graham,DL | Michigan,Walter Football,2025-04-22
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | GeorgiaPOPULAR,Walter Football,2025-04-22
+9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Shemar Stewart,EDGE | Texas A&M,Walter Football,2025-04-22
+10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Tyler Warren,TE | Penn State,Walter Football,2025-04-22
+11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Will Johnson,CB | MichiganPOPULAR,Walter Football,2025-04-22
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tetairoa McMillan,WR | ArizonaPOPULAR,Walter Football,2025-04-22
+13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kelvin Banks,OT | Texas,Walter Football,2025-04-22
+14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Colston Loveland,TE | MichiganPOPULAR,Walter Football,2025-04-22
+15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Mykel Williams,EDGE | Georgia,Walter Football,2025-04-22
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Walter Nolen,DL | Mississippi,Walter Football,2025-04-22
+17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Tyler Booker,IOL | Alabama,Walter Football,2025-04-22
+18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Grey Zabel,IOL | North Dakota StatePOPULAR,Walter Football,2025-04-22
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jihaad Campbell,LB | AlabamaPOPULAR,Walter Football,2025-04-22
+20,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Omarion Hampton,RB | North CarolinaPOPULAR,Walter Football,2025-04-22
+21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Derrick Harmon,DL | Oregon,Walter Football,2025-04-22
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Kenneth Grant,DL | MichiganPOPULAR,Walter Football,2025-04-22
+23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Matthew Golden,WR | Texas,Walter Football,2025-04-22
+24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Nick Emmanwori,S | South Carolina,Walter Football,2025-04-22
+25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Josh Conerly Jr.,OT | Oregon,Walter Football,2025-04-22
+26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Jahdae Barron,CB | Texas,Walter Football,2025-04-22
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Malaki Starks,S | Georgia,Walter Football,2025-04-22
+28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,J.T. Tuimoloau,EDGE | Ohio StateRARE,Walter Football,2025-04-22
+29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Donovan Ezeiruaku,EDGE | Boston College,Walter Football,2025-04-22
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Shavon Revel Jr.,CB | East Carolina,Walter Football,2025-04-22
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Donovan Jackson,IOL | Ohio State,Walter Football,2025-04-22
+32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Josh Simmons,OT | Ohio State,Walter Football,2025-04-22
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Pro Football Network,2025-04-22
 2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Pro Football Network,2025-04-22
 3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Pro Football Network,2025-04-22
@@ -1586,32 +1673,6 @@ pick,team,team_img,player,player_details,source,date
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Malaki Starks,S | Georgia,NFL Trade Rumors,2025-04-21
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Conerly Jr.,OT | OregonPOPULAR,NFL Trade Rumors,2025-04-21
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Walter Nolen,DL | Mississippi,NFL Trade Rumors,2025-04-21
-1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Walter Football,2025-04-21
-2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Walter Football,2025-04-21
-3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Walter Football,2025-04-21
-4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,Walter Football,2025-04-21
-5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Mason Graham,DL | MichiganPOPULAR,Walter Football,2025-04-21
-6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Jalon Walker,EDGE | Georgia,Walter Football,2025-04-21
-7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Armand Membou,OT | MissouriPOPULAR,Walter Football,2025-04-21
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Mykel Williams,EDGE | Georgia,Walter Football,2025-04-21
-9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Tyler Warren,TE | Penn State,Walter Football,2025-04-21
-10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Ashton Jeanty,RB | Boise State,Walter Football,2025-04-21
-11,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tetairoa McMillan,WR | Arizona,Walter Football,2025-04-21
-12,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Malaki Starks,S | Georgia,Walter Football,2025-04-21
-13,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Tyler Booker,IOL | Alabama,Walter Football,2025-04-21
-14,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Maxwell Hairston,CB | Kentucky,Walter Football,2025-04-21
-15,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Johnson,CB | Michigan,Walter Football,2025-04-21
-16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Jihaad Campbell,LB | Alabama,Walter Football,2025-04-21
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Derrick Harmon,DL | Oregon,Walter Football,2025-04-21
-18,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Matthew Golden,WR | Texas,Walter Football,2025-04-21
-19,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jahdae Barron,CB | Texas,Walter Football,2025-04-21
-20,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Kelvin Banks,OT | Texas,Walter Football,2025-04-21
-21,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Kenneth Grant,DL | Michigan,Walter Football,2025-04-21
-22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Shemar Stewart,EDGE | Texas A&M,Walter Football,2025-04-21
-23,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,J.T. Tuimoloau,EDGE | Ohio StateRARE,Walter Football,2025-04-21
-24,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Shavon Revel Jr.,CB | East Carolina,Walter Football,2025-04-21
-25,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Simmons,OT | Ohio State,Walter Football,2025-04-21
-26,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Josh Conerly Jr.,OT | Oregon,Walter Football,2025-04-21
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Rotoballer,2025-04-21
 2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Rotoballer,2025-04-21
 3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Rotoballer,2025-04-21
@@ -1708,38 +1769,6 @@ pick,team,team_img,player,player_details,source,date
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Mike Green,EDGE | Marshall,Corny Sports Network,2025-04-21
 31,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Grey Zabel,IOL | North Dakota State,Corny Sports Network,2025-04-21
 32,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Luther Burden,WR | Missouri,Corny Sports Network,2025-04-21
-1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Walter Football,2025-04-21
-2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Walter Football,2025-04-21
-3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Walter Football,2025-04-21
-4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,Walter Football,2025-04-21
-5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Armand Membou,OT | Missouri,Walter Football,2025-04-21
-6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Will Johnson,CB | Michigan,Walter Football,2025-04-21
-7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Mason Graham,DL | Michigan,Walter Football,2025-04-21
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | GeorgiaPOPULAR,Walter Football,2025-04-21
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Ashton Jeanty,RB | Boise State,Walter Football,2025-04-21
-10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Tyler Warren,TE | Penn State,Walter Football,2025-04-21
-11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Kenneth Grant,DL | Michigan,Walter Football,2025-04-21
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tetairoa McMillan,WR | ArizonaPOPULAR,Walter Football,2025-04-21
-13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kelvin Banks,OT | Texas,Walter Football,2025-04-21
-14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Tyler Booker,IOL | Alabama,Walter Football,2025-04-21
-15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Mykel Williams,EDGE | Georgia,Walter Football,2025-04-21
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Walter Nolen,DL | Mississippi,Walter Football,2025-04-21
-17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Nick Emmanwori,S | South Carolina,Walter Football,2025-04-21
-18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Grey Zabel,IOL | North Dakota StatePOPULAR,Walter Football,2025-04-21
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jihaad Campbell,LB | AlabamaPOPULAR,Walter Football,2025-04-21
-20,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Shemar Stewart,EDGE | Texas A&M,Walter Football,2025-04-21
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Derrick Harmon,DL | Oregon,Walter Football,2025-04-21
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Colston Loveland,TE | Michigan,Walter Football,2025-04-21
-23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Matthew Golden,WR | Texas,Walter Football,2025-04-21
-24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Malaki Starks,S | GeorgiaPOPULAR,Walter Football,2025-04-21
-25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Josh Conerly Jr.,OT | Oregon,Walter Football,2025-04-21
-26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Trey Amos,CB | MississippiPOPULAR,Walter Football,2025-04-21
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,James Pearce Jr.,EDGE | Tennessee,Walter Football,2025-04-21
-28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,J.T. Tuimoloau,EDGE | Ohio StateRARE,Walter Football,2025-04-21
-29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Donovan Ezeiruaku,EDGE | Boston College,Walter Football,2025-04-21
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Shavon Revel Jr.,CB | East Carolina,Walter Football,2025-04-21
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Donovan Jackson,IOL | Ohio State,Walter Football,2025-04-21
-32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Josh Simmons,OT | Ohio State,Walter Football,2025-04-21
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,The Draft Network,2025-04-20
 2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,The Draft Network,2025-04-20
 3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,The Draft Network,2025-04-20
@@ -1862,7 +1891,7 @@ pick,team,team_img,player,player_details,source,date
 24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Nick Emmanwori,S | South Carolina,CBS,2025-04-20
 25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Josh Simmons,OT | Ohio StatePOPULAR,CBS,2025-04-20
 26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Maxwell Hairston,CB | Kentucky,CBS,2025-04-20
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Booker,IOL | Alabama,CBS,2025-04-20
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Booker,IOL | AlabamaPOPULAR,CBS,2025-04-20
 28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Derrick Harmon,DL | Oregon,CBS,2025-04-20
 29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Donovan Ezeiruaku,EDGE | Boston College,CBS,2025-04-20
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Malaki Starks,S | Georgia,CBS,2025-04-20
@@ -1992,7 +2021,7 @@ pick,team,team_img,player,player_details,source,date
 26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Nic Scourton,EDGE | Texas A&M,NFL Spin Zone,2025-04-20
 27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jihaad Campbell,LB | Alabama,NFL Spin Zone,2025-04-20
 28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,James Pearce Jr.,EDGE | Tennessee,NFL Spin Zone,2025-04-20
-29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Xavier Watts,S | Notre Dame,NFL Spin Zone,2025-04-20
+29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Xavier Watts,S | Notre DameRARE,NFL Spin Zone,2025-04-20
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Emeka Egbuka,WR | Ohio State,NFL Spin Zone,2025-04-20
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Walter Nolen,DL | Mississippi,NFL Spin Zone,2025-04-20
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Luther Burden,WR | Missouri,NFL Spin Zone,2025-04-20
@@ -2025,7 +2054,7 @@ pick,team,team_img,player,player_details,source,date
 27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,James Pearce Jr.,EDGE | Tennessee,Draftwire,2025-04-20
 28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Donovan Ezeiruaku,EDGE | Boston CollegePOPULAR,Draftwire,2025-04-20
 29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Shemar Stewart,EDGE | Texas A&M,Draftwire,2025-04-20
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Landon Jackson,EDGE | ArkansasRARE,Draftwire,2025-04-20
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Landon Jackson,EDGE | Arkansas,Draftwire,2025-04-20
 31,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jalen Milroe,QB | Alabama,Draftwire,2025-04-20
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Malaki Starks,S | Georgia,Draftwire,2025-04-20
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,In The Aggregate,2025-04-19
@@ -2476,38 +2505,6 @@ pick,team,team_img,player,player_details,source,date
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Donovan Ezeiruaku,EDGE | Boston College,CBS,2025-04-18
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Shemar Stewart,EDGE | Texas A&M,CBS,2025-04-18
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Malaki Starks,S | Georgia,CBS,2025-04-18
-1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Establish The Run,2025-04-18
-2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Establish The Run,2025-04-18
-3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Establish The Run,2025-04-18
-4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,Establish The Run,2025-04-18
-5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Jahdae Barron,CB | Texas,Establish The Run,2025-04-18
-6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Ashton Jeanty,RB | Boise StatePOPULAR,Establish The Run,2025-04-18
-7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Armand Membou,OT | MissouriPOPULAR,Establish The Run,2025-04-18
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | GeorgiaPOPULAR,Establish The Run,2025-04-18
-9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Tyler Warren,TE | Penn State,Establish The Run,2025-04-18
-10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Grey Zabel,IOL | North Dakota State,Establish The Run,2025-04-18
-11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mason Graham,DL | Michigan,Establish The Run,2025-04-18
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Matthew Golden,WR | Texas,Establish The Run,2025-04-18
-13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kelvin Banks,OT | Texas,Establish The Run,2025-04-18
-14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Colston Loveland,TE | MichiganPOPULAR,Establish The Run,2025-04-18
-15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Mykel Williams,EDGE | Georgia,Establish The Run,2025-04-18
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Johnson,CB | Michigan,Establish The Run,2025-04-18
-17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Derrick Harmon,DL | OregonPOPULAR,Establish The Run,2025-04-18
-18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Josh Simmons,OT | Ohio State,Establish The Run,2025-04-18
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jihaad Campbell,LB | AlabamaPOPULAR,Establish The Run,2025-04-18
-20,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Omarion Hampton,RB | North CarolinaPOPULAR,Establish The Run,2025-04-18
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Kenneth Grant,DL | Michigan,Establish The Run,2025-04-18
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Tetairoa McMillan,WR | Arizona,Establish The Run,2025-04-18
-23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Maxwell Hairston,CB | KentuckyPOPULAR,Establish The Run,2025-04-18
-24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Malaki Starks,S | GeorgiaPOPULAR,Establish The Run,2025-04-18
-25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Tyler Booker,IOL | Alabama,Establish The Run,2025-04-18
-26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Trey Amos,CB | MississippiPOPULAR,Establish The Run,2025-04-18
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,James Pearce Jr.,EDGE | Tennessee,Establish The Run,2025-04-18
-28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Landon Jackson,EDGE | ArkansasRARE,Establish The Run,2025-04-18
-29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Donovan Ezeiruaku,EDGE | Boston College,Establish The Run,2025-04-18
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Luther Burden,WR | Missouri,Establish The Run,2025-04-18
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Conerly Jr.,OT | OregonPOPULAR,Establish The Run,2025-04-18
-32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nic Scourton,EDGE | Texas A&M,Establish The Run,2025-04-18
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,SB Nation,2025-04-18
 2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,SB Nation,2025-04-18
 3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,SB Nation,2025-04-18
@@ -2540,6 +2537,38 @@ pick,team,team_img,player,player_details,source,date
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Malaki Starks,S | Georgia,SB Nation,2025-04-18
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Walter Nolen,DL | Mississippi,SB Nation,2025-04-18
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Donovan Jackson,IOL | Ohio State,SB Nation,2025-04-18
+1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Establish The Run,2025-04-18
+2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Establish The Run,2025-04-18
+3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Establish The Run,2025-04-18
+4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,Establish The Run,2025-04-18
+5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Jahdae Barron,CB | Texas,Establish The Run,2025-04-18
+6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Ashton Jeanty,RB | Boise StatePOPULAR,Establish The Run,2025-04-18
+7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Armand Membou,OT | MissouriPOPULAR,Establish The Run,2025-04-18
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | GeorgiaPOPULAR,Establish The Run,2025-04-18
+9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Tyler Warren,TE | Penn State,Establish The Run,2025-04-18
+10,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Grey Zabel,IOL | North Dakota State,Establish The Run,2025-04-18
+11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mason Graham,DL | Michigan,Establish The Run,2025-04-18
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Matthew Golden,WR | Texas,Establish The Run,2025-04-18
+13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kelvin Banks,OT | Texas,Establish The Run,2025-04-18
+14,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Colston Loveland,TE | MichiganPOPULAR,Establish The Run,2025-04-18
+15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Mykel Williams,EDGE | Georgia,Establish The Run,2025-04-18
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Johnson,CB | Michigan,Establish The Run,2025-04-18
+17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Derrick Harmon,DL | OregonPOPULAR,Establish The Run,2025-04-18
+18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Josh Simmons,OT | Ohio State,Establish The Run,2025-04-18
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jihaad Campbell,LB | AlabamaPOPULAR,Establish The Run,2025-04-18
+20,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Omarion Hampton,RB | North CarolinaPOPULAR,Establish The Run,2025-04-18
+21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Kenneth Grant,DL | Michigan,Establish The Run,2025-04-18
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Tetairoa McMillan,WR | Arizona,Establish The Run,2025-04-18
+23,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Maxwell Hairston,CB | KentuckyPOPULAR,Establish The Run,2025-04-18
+24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Malaki Starks,S | GeorgiaPOPULAR,Establish The Run,2025-04-18
+25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Tyler Booker,IOL | Alabama,Establish The Run,2025-04-18
+26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Trey Amos,CB | MississippiPOPULAR,Establish The Run,2025-04-18
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,James Pearce Jr.,EDGE | Tennessee,Establish The Run,2025-04-18
+28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Landon Jackson,EDGE | Arkansas,Establish The Run,2025-04-18
+29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Donovan Ezeiruaku,EDGE | Boston College,Establish The Run,2025-04-18
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Luther Burden,WR | Missouri,Establish The Run,2025-04-18
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Conerly Jr.,OT | OregonPOPULAR,Establish The Run,2025-04-18
+32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nic Scourton,EDGE | Texas A&M,Establish The Run,2025-04-18
 1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,SI,2025-04-18
 2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,SI,2025-04-18
 3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,SI,2025-04-18
@@ -3259,35 +3288,3 @@ pick,team,team_img,player,player_details,source,date
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Kenneth Grant,DL | Michigan,SleeperCFB,2025-04-16
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Josh Conerly Jr.,OT | OregonPOPULAR,SleeperCFB,2025-04-16
 32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nick Emmanwori,S | South CarolinaPOPULAR,SleeperCFB,2025-04-16
-1,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Cameron Ward,QB | Miami (FL)POPULAR,Rotowire,2025-04-16
-2,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Travis Hunter,CB | ColoradoPOPULAR,Rotowire,2025-04-16
-3,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Abdul Carter,EDGE | Penn StatePOPULAR,Rotowire,2025-04-16
-4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Will Campbell,OT | LSUPOPULAR,Rotowire,2025-04-16
-5,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Mason Graham,DL | MichiganPOPULAR,Rotowire,2025-04-16
-6,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Will Johnson,CB | Michigan,Rotowire,2025-04-16
-7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Armand Membou,OT | MissouriPOPULAR,Rotowire,2025-04-16
-8,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Ashton Jeanty,RB | Boise State,Rotowire,2025-04-16
-9,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Tyler Warren,TE | Penn State,Rotowire,2025-04-16
-10,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Shedeur Sanders,QB | Colorado,Rotowire,2025-04-16
-11,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mykel Williams,EDGE | Georgia,Rotowire,2025-04-16
-12,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Jalon Walker,EDGE | Georgia,Rotowire,2025-04-16
-13,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Derrick Harmon,DL | Oregon,Rotowire,2025-04-16
-14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jaxson Dart,QB | Mississippi,Rotowire,2025-04-16
-15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Tetairoa McMillan,WR | Arizona,Rotowire,2025-04-16
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Matthew Golden,WR | Texas,Rotowire,2025-04-16
-17,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Mike Green,EDGE | Marshall,Rotowire,2025-04-16
-18,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Kelvin Banks,OT | Texas,Rotowire,2025-04-16
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jihaad Campbell,LB | AlabamaPOPULAR,Rotowire,2025-04-16
-20,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Omarion Hampton,RB | North CarolinaPOPULAR,Rotowire,2025-04-16
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Jalen Milroe,QB | Alabama,Rotowire,2025-04-16
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Colston Loveland,TE | Michigan,Rotowire,2025-04-16
-23,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,James Pearce Jr.,EDGE | Tennessee,Rotowire,2025-04-16
-24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Tyler Booker,IOL | Alabama,Rotowire,2025-04-16
-25,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Tate Ratledge,IOL | GeorgiaRARE,Rotowire,2025-04-16
-26,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Nick Emmanwori,S | South Carolina,Rotowire,2025-04-16
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Shemar Stewart,EDGE | Texas A&M,Rotowire,2025-04-16
-28,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Quinshon Judkins,RB | Ohio StateRARE,Rotowire,2025-04-16
-29,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Josh Simmons,OT | Ohio State,Rotowire,2025-04-16
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jahdae Barron,CB | Texas,Rotowire,2025-04-16
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,TreVeyon Henderson,RB | Ohio State,Rotowire,2025-04-16
-32,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Malaki Starks,S | Georgia,Rotowire,2025-04-16
