@@ -4,6 +4,7 @@ import datetime
 import numpy as np
 import os
 from bs4 import BeautifulSoup
+import time
 
 headers = {
     'Host': 'www.nflmockdraftdatabase.com',
