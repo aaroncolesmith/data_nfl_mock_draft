@@ -29,87 +29,99 @@ headers = {
 }
 
 
+import json
+
 year='2026'
 
-def link_to_df(link):
-    # try:
-    url = 'https://www.nflmockdraftdatabase.com'+link['href']
+def get_react_props(url):
+    try:
+        req = requests.get(url, headers=headers, timeout=15)
+        if req.status_code != 200:
+            print(f"Error fetching {url}: {req.status_code}")
+            return None
+        soup = BeautifulSoup(req.content, 'html.parser')
+        # Check both Index and Show components
+        for component_name in ["mocks/Index", "mocks/Show"]:
+            div = soup.find("div", {"data-react-class": component_name})
+            if div and "data-react-props" in div.attrs:
+                return json.loads(div["data-react-props"])
+    except Exception as e:
+        print(f"Exception fetching {url}: {e}")
+    return None
+
+def mock_to_df(mock_info):
+    url = 'https://www.nflmockdraftdatabase.com' + mock_info['url']
     print(url)
+    
+    props = get_react_props(url)
+    if not props or "mock" not in props:
+        return pd.DataFrame()
 
-    req = requests.get(url,headers=headers)
-    soup = BeautifulSoup(req.content, 'html.parser')
+    mock_data = props["mock"]
+    selections = mock_data.get("selections", [])
+    
+    picks = []
+    teams = []
+    team_imgs = []
+    players = []
+    player_details = []
 
-    pick=[]
-    team=[]
-    team_img=[]
-    player=[]
-    player_details=[]
+    for sel in selections:
+        player = sel.get("player", {})
+        team = sel.get("team", {})
+        college = player.get("college", {})
+        
+        picks.append(sel.get("pick"))
+        
+        # Extract team name from URL if possible
+        team_url = team.get("url", "")
+        team_name = team_url.split("/")[-1].replace("-", " ").title() if team_url else "Unknown"
+        teams.append(team_name)
+        
+        team_imgs.append(team.get("logo", ""))
+        players.append(player.get("name", "Unknown"))
+        
+        details = f"{player.get('position', '')}, {college.get('name', '')}".strip(", ")
+        player_details.append(details)
 
-    table = soup.find('ul', class_="mock-list")
-
-    for li in table.find_all("li"):
-        pick.append(li.find('div',{"class":"pick-number"}).text)
-        team.append(str(li).split(f'href="/teams/{year}/')[1].split('">')[0].replace('-',' ').title())
-        team_img.append(str(li).split('loading="lazy" src="')[1].split('"/>')[0])
-        try:
-            player.append(li.find('div',{"class":"player-name player-name-bold"}).text)
-        except:
-            player.append(li.find('div',{"class":"player-name strikethrough"}).text)
-        player_details.append(li.find('div',{"class":"player-details"}).text)
-
-    d = pd.DataFrame(
-                    {
-                        'pick':pick,
-                        'team':team,
-                        'team_img':team_img,
-                        'player':player,
-                        'player_details':player_details
-                    })
-    d['source']=soup.find('h1').text
-    d['date'] = url[-10:]
+    d = pd.DataFrame({
+        'pick': picks,
+        'team': teams,
+        'team_img': team_imgs,
+        'player': players,
+        'player_details': player_details
+    })
+    
+    d['source'] = mock_data.get("name", "Unknown")
+    d['url_path'] = mock_info['url']
+    d['date'] = mock_data.get("published_at", "")[:10] # YYYY-MM-DD
 
     return d
 
+df = pd.DataFrame()
+i = 0
+for u in range(1, 4):
+    url = f'https://www.nflmockdraftdatabase.com/mock-drafts/{year}/page/{u}'
+    print(url)
+    props = get_react_props(url)
+    
+    if not props or "mocks" not in props:
+        print(f"No mocks found on page {u}")
+        continue
+    
+    mocks = props["mocks"]
+    print(len(mocks))
 
-df=pd.DataFrame()
-i=0
-for u in range(1,4):
-
-  url = f'https://www.nflmockdraftdatabase.com/mock-drafts/{year}/page/'+str(u)
-  req = requests.get(url,headers=headers)
-  soup = BeautifulSoup(req.content, 'html.parser')
-  links = soup.find_all("a", class_="site-link")
-  print(url)
-  print(len(links))
-  if len(links) == 0:
-    time.sleep(10)
-    req = requests.get(url,headers=headers)
-    soup = BeautifulSoup(req.content, 'html.parser')
-    links = soup.find_all("a", class_="site-link")
-    print(f'second time -- {url}')
-    print(len(links))
-
-
-  for link in links:
-    try:
-      d = link_to_df(link)
-      df=pd.concat([df,d])
-    except:
-      print('had a first failure ' + str(req.status_code))
-      time.sleep(20)
-      try:
-        d = link_to_df(link)
-        df=pd.concat([df,d])
-      except:
-        print('had a second failure ' + str(req.status_code))
-        time.sleep(15)
+    for mock_info in mocks:
         try:
-          d = link_to_df(link)
-          df=pd.concat([df,d])
-        except:
-          print('had a third failure :(' + str(req.status_code))
-          i+=1
-          print(f'total failur count: ({str(i)})')
+            d = mock_to_df(mock_info)
+            if not d.empty:
+                df = pd.concat([df, d], ignore_index=True)
+            else:
+                i += 1
+        except Exception as e:
+            print(f"Error processing mock: {e}")
+            i += 1
 
 
 with open('last_updated.txt', 'a') as fp:
