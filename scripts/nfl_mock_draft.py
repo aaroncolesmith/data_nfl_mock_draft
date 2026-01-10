@@ -78,7 +78,10 @@ def mock_to_df(mock_info):
         team_name = team_url.split("/")[-1].replace("-", " ").title() if team_url else "Unknown"
         teams.append(team_name)
         
-        team_imgs.append(team.get("logo", ""))
+        logo_url = team.get("logo", "")
+        if logo_url.startswith("/"):
+            logo_url = "https://www.nflmockdraftdatabase.com" + logo_url
+        team_imgs.append(logo_url)
         players.append(player.get("name", "Unknown"))
         
         details = f"{player.get('position', '')}, {college.get('name', '')}".strip(", ")
@@ -126,6 +129,9 @@ for u in range(1, 4):
 
 with open('last_updated.txt', 'a') as fp:
     fp.write(str(datetime.datetime.now())[:19])
+
+df = df.drop_duplicates(subset=['pick','team','url_path'])
+df = df.loc[df['pick']<=32].reset_index(drop=True)
 df.to_csv(f'./data/new_nfl_mock_draft_db_{year}.csv',index=False)
 
 
@@ -134,5 +140,7 @@ df['pick']=pd.to_numeric(df['pick'])
 
 df['team_pick'] = 'Pick '+ df['pick'].astype('str').replace('\.0', '', regex=True) + ' - ' +df['team']
 df=df.loc[~df.team_pick.str.contains('/Colleges')]
+
+
 
 print(f'had a total of {str(i)} failures')
