@@ -104,7 +104,8 @@ def mock_to_df(mock_info):
 df = pd.DataFrame()
 i = 0
 for u in range(1, 4):
-    url = f'https://www.nflmockdraftdatabase.com/mock-drafts/{year}/page/{u}'
+    # url = f'https://www.nflmockdraftdatabase.com/mock-drafts/{year}/page/{u}'
+    url = f'https://www.nflmockdraftdatabase.com/mock-drafts/{year}?page={u}'
     print(url)
     props = get_react_props(url)
     
