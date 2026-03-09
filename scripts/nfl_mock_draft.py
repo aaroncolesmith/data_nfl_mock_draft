@@ -7,25 +7,9 @@ from bs4 import BeautifulSoup
 import time
 
 headers = {
-    'Host': 'www.nflmockdraftdatabase.com',
-    'Connection': 'keep-alive',
-    'Cache-Control': 'max-age=0',
-    'Content-Type': 'text/html; charset=UTF-8',
-    'sec-ch-ua': '"Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"',
-    'sec-ch-ua-mobile': '?0',
-    'Upgrade-Insecure-Requests': '1',
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-    'Sec-Fetch-Site': 'same-origin',
-    'Sec-Fetch-Mode': 'navigate',
-    'Sec-Fetch-User': '?1',
-    'Sec-Fetch-Dest': 'document',
-    'Referer': 'https://www.nflmockdraftdatabase.com/mock-drafts/2021/nfl-mocks-2021-a-j-fagerlin',
-    'Accept-Encoding': 'gzip, deflate',
-    'Accept-Language': 'en-US,en;q=0.9',
-    'Cookie': 'announcement_seen=1; announcement_seen=1; _nflmockdb_session=ZkJIWFdiMnllVkM0SGNMeHBxUE56VlVRa3lCR0N6ampwUzNLYnRxSy9JU256bENQb2k0cXZqallIWjNaWElPR2VQcVVXUmVOY0pGcS84MG81WFNJd2pnRHJJWVZVenRzdEg5SERjR0tEU0RELzRBMzFLL1Zsa3dYMld4Z2diWEpPK2pHZlVpbmplZkdGNFJNdlpDY0RnPT0tLWNjZDgyUGhLeGEyRG9xS3dndUdzZXc9PQ%3D%3D--f84bf880c0f79c2eccf440638588c5aaf682859e',
-    'If-None-Match': 'W/"fe2fe61b64b30d8eff802d92afd8da1b"'
-
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.5',
 }
 
 
@@ -130,6 +114,10 @@ for u in range(1, 4):
 
 with open('last_updated.txt', 'a') as fp:
     fp.write(str(datetime.datetime.now())[:19])
+
+if df.empty:
+    print("No data collected across any pages.")
+    exit(1)
 
 df = df.drop_duplicates(subset=['pick','team','url_path'])
 df = df.loc[df['pick']<=32].reset_index(drop=True)
