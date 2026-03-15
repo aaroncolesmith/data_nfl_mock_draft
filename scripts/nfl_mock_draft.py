@@ -7,10 +7,13 @@ from bs4 import BeautifulSoup
 import time
 
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
     'Accept-Language': 'en-US,en;q=0.5',
 }
+
+session = requests.Session()
+session.headers.update(headers)
 
 
 import json
@@ -19,7 +22,7 @@ year='2026'
 
 def get_react_props(url):
     try:
-        req = requests.get(url, headers=headers, timeout=15)
+        req = session.get(url, timeout=15)
         if req.status_code != 200:
             print(f"Error fetching {url}: {req.status_code}")
             return None
@@ -31,6 +34,7 @@ def get_react_props(url):
                 return json.loads(div["data-react-props"])
     except Exception as e:
         print(f"Exception fetching {url}: {e}")
+    print(f"Could not find React props for {url}")
     return None
 
 def mock_to_df(mock_info):
@@ -105,10 +109,12 @@ for u in range(1, 4):
             d = mock_to_df(mock_info)
             if not d.empty:
                 df = pd.concat([df, d], ignore_index=True)
+                print(f"Successfully processed mock: {mock_info['url']}")
             else:
+                print(f"Mock was empty or invalid: {mock_info['url']}")
                 i += 1
         except Exception as e:
-            print(f"Error processing mock: {e}")
+            print(f"Error processing mock {mock_info.get('url', 'unknown')}: {e}")
             i += 1
 
 
