@@ -1,36 +1,164 @@
 pick,team,team_img,player,player_details,source,url_path,date
-1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Arvell Reese,"LB, Ohio State",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,David Bailey,"EDGE, Texas Tech",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,Jeremiyah Love,"RB, Notre Dame",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Sonny Styles,"LB, Ohio State",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-6,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Francis Mauigoa,"OT, Miami (FL)",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,Rueben Bain,"EDGE, Miami (FL)",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,Carnell Tate,"WR, Ohio State",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Spencer Fano,"OT, Utah",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,Caleb Downs,"S, Ohio State",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Mansoor Delane,"CB, LSU",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Keldric Faulk,"EDGE, Auburn",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Monroe Freeling,"OT, Georgia",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Makai Lemon,"WR, USC",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-15,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Kenyon Sadiq,"TE, Oregon",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Jordyn Tyson,"WR, Arizona State",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-17,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Olaivavega Ioane,"IOL, Penn State",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Emmanuel McNeil-Warren,"S, Toledo",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Akheem Mesidor,"EDGE, Miami (FL)",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Jermod McCoy,"CB, Tennessee",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Kadyn Proctor,"OT, Alabama",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,Caleb Lomu,"OT, Utah",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Omar Cooper Jr.,"WR, Indiana",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Denzel Boston,"WR, Washington",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,Dillon Thieneman,"S, Oregon",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,C.J. Allen,"LB, Georgia",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,T.J. Parker,"EDGE, Clemson",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,Peter Woods,"DL, Clemson",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Avieon Terrell,"CB, Clemson",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-30,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Kevin Concepcion,"WR, Texas A&M",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,Cashius Howell,"EDGE, Texas A&M",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
-32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Colton Hood,"CB, Tennessee",Official MDDB Mock Draft,/mock-draft-2026,03/24/26
+1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Arvell Reese,"LB, Ohio State",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,David Bailey,"EDGE, Texas Tech",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,Jeremiyah Love,"RB, Notre Dame",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Sonny Styles,"LB, Ohio State",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+6,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Francis Mauigoa,"OT, Miami (FL)",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,Caleb Downs,"S, Ohio State",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,Rueben Bain,"EDGE, Miami (FL)",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Carnell Tate,"WR, Ohio State",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,Mansoor Delane,"CB, LSU",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Spencer Fano,"OT, Utah",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Jermod McCoy,"CB, Tennessee",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Monroe Freeling,"OT, Georgia",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Jordyn Tyson,"WR, Arizona State",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+15,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Kenyon Sadiq,"TE, Oregon",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Makai Lemon,"WR, USC",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+17,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Keldric Faulk,"EDGE, Auburn",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Avieon Terrell,"CB, Clemson",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Kadyn Proctor,"OT, Alabama",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Dillon Thieneman,"S, Oregon",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Olaivavega Ioane,"IOL, Penn State",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,Blake Miller,"OT, Clemson",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Omar Cooper Jr.,"WR, Indiana",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Akheem Mesidor,"EDGE, Miami (FL)",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,Peter Woods,"DL, Clemson",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,C.J. Allen,"LB, Georgia",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,T.J. Parker,"EDGE, Clemson",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,Max Iheanachor,"OT, Arizona State",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Caleb Lomu,"OT, Utah",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+30,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Denzel Boston,"WR, Washington",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,Zion Young,"EDGE, Missouri",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Cashius Howell,"EDGE, Texas A&M",Official MDDB Mock Draft,/mock-draft-2026,03/25/26
+1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Arvell Reese,"LB, Ohio State",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Sonny Styles,"LB, Ohio State",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,Jeremiyah Love,"RB, Notre Dame",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Caleb Downs,"S, Ohio State",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+6,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Jordyn Tyson,"WR, Arizona State",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,Rueben Bain,"EDGE, Miami (FL)",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,Mansoor Delane,"CB, LSU",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Avieon Terrell,"CB, Clemson",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,Francis Mauigoa,"OT, Miami (FL)",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Makai Lemon,"WR, USC",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,David Bailey,"EDGE, Texas Tech",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Spencer Fano,"OT, Utah",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Carnell Tate,"WR, Ohio State",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+15,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Kenyon Sadiq,"TE, Oregon",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Jermod McCoy,"CB, Tennessee",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+17,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Monroe Freeling,"OT, Georgia",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Dillon Thieneman,"S, Oregon",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Omar Cooper Jr.,"WR, Indiana",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Jacob Rodriguez,"LB, Texas Tech",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Olaivavega Ioane,"IOL, Penn State",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,Emmanuel McNeil-Warren,"S, Toledo",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Kadyn Proctor,"OT, Alabama",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Blake Miller,"OT, Clemson",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,Kayden McDonald,"DL, Ohio State",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,Anthony Hill Jr.,"LB, Texas",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,Akheem Mesidor,"EDGE, Miami (FL)",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,Caleb Banks,"DL, Florida",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Keldric Faulk,"EDGE, Auburn",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+30,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Ty Simpson,"QB, Alabama",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,Caleb Lomu,"OT, Utah",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Jadarian Price,"RB, Notre Dame",NFL Mocks,/mock-drafts/2026/nfl-mocks-2026-ian-harper?date=2026-03-24,03/24/26
+1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Arvell Reese,"LB, Ohio State",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Francis Mauigoa,"OT, Miami (FL)",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,Jeremiyah Love,"RB, Notre Dame",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Sonny Styles,"LB, Ohio State",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+6,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Monroe Freeling,"OT, Georgia",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,Carnell Tate,"WR, Ohio State",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,David Bailey,"EDGE, Texas Tech",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Mansoor Delane,"CB, LSU",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,Caleb Downs,"S, Ohio State",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Spencer Fano,"OT, Utah",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Rueben Bain,"EDGE, Miami (FL)",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Kenyon Sadiq,"TE, Oregon",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Olaivavega Ioane,"IOL, Penn State",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+15,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Akheem Mesidor,"EDGE, Miami (FL)",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Makai Lemon,"WR, USC",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+17,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Blake Miller,"OT, Clemson",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Dillon Thieneman,"S, Oregon",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Jordyn Tyson,"WR, Arizona State",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Jermod McCoy,"CB, Tennessee",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Kadyn Proctor,"OT, Alabama",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,Kayden McDonald,"DL, Ohio State",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Keldric Faulk,"EDGE, Auburn",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Omar Cooper Jr.,"WR, Indiana",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,Emmanuel McNeil-Warren,"S, Toledo",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,Cashius Howell,"EDGE, Texas A&M",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,Max Iheanachor,"OT, Arizona State",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,C.J. Allen,"LB, Georgia",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Zion Young,"EDGE, Missouri",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+30,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Denzel Boston,"WR, Washington",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,T.J. Parker,"EDGE, Clemson",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Avieon Terrell,"CB, Clemson",Clutch Points,/mock-drafts/2026/clutch-points-2026-tim-crean?date=2026-03-24,03/24/26
+1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,David Bailey,"EDGE, Texas Tech",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Arvell Reese,"LB, Ohio State",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,Jeremiyah Love,"RB, Notre Dame",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Sonny Styles,"LB, Ohio State",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+6,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Carnell Tate,"WR, Ohio State",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,Caleb Downs,"S, Ohio State",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,Jordyn Tyson,"WR, Arizona State",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Francis Mauigoa,"OT, Miami (FL)",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,Mansoor Delane,"CB, LSU",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Olaivavega Ioane,"IOL, Penn State",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Rueben Bain,"EDGE, Miami (FL)",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Makai Lemon,"WR, USC",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Spencer Fano,"OT, Utah",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+15,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Jermod McCoy,"CB, Tennessee",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Avieon Terrell,"CB, Clemson",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+17,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Akheem Mesidor,"EDGE, Miami (FL)",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Dillon Thieneman,"S, Oregon",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Monroe Freeling,"OT, Georgia",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Colton Hood,"CB, Tennessee",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Kevin Concepcion,"WR, Texas A&M",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,T.J. Parker,"EDGE, Clemson",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Blake Miller,"OT, Clemson",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Caleb Lomu,"OT, Utah",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,Emmanuel McNeil-Warren,"S, Toledo",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,C.J. Allen,"LB, Georgia",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,Cashius Howell,"EDGE, Texas A&M",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,Peter Woods,"DL, Clemson",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Kenyon Sadiq,"TE, Oregon",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+30,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Omar Cooper Jr.,"WR, Indiana",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,Keldric Faulk,"EDGE, Auburn",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Brandon Cisse,"CB, South Carolina",NFL.com,/mock-drafts/2026/nfl-com-2026-bucky-brooks?date=2026-03-24,03/24/26
+1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Arvell Reese,"LB, Ohio State",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Francis Mauigoa,"OT, Miami (FL)",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,Rueben Bain,"EDGE, Miami (FL)",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Sonny Styles,"LB, Ohio State",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+6,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Monroe Freeling,"OT, Georgia",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,Jeremiyah Love,"RB, Notre Dame",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,Mansoor Delane,"CB, LSU",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,David Bailey,"EDGE, Texas Tech",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,Caleb Downs,"S, Ohio State",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Carnell Tate,"WR, Ohio State",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Jermod McCoy,"CB, Tennessee",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Jordyn Tyson,"WR, Arizona State",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Olaivavega Ioane,"IOL, Penn State",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+15,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Spencer Fano,"OT, Utah",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Makai Lemon,"WR, USC",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+17,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Kadyn Proctor,"OT, Alabama",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Dillon Thieneman,"S, Oregon",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Kenyon Sadiq,"TE, Oregon",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,C.J. Allen,"LB, Georgia",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+21,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Malachi Lawrence,"EDGE, UCF",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,Emmanuel Pregnon,"IOL, Oregon",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Omar Cooper Jr.,"WR, Indiana",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Kevin Concepcion,"WR, Texas A&M",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,Zion Young,"EDGE, Missouri",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,Emmanuel McNeil-Warren,"S, Toledo",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,Caleb Lomu,"OT, Utah",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,Peter Woods,"DL, Clemson",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Avieon Terrell,"CB, Clemson",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+30,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Keldric Faulk,"EDGE, Auburn",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,Max Iheanachor,"OT, Arizona State",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
+32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Colton Hood,"CB, Tennessee",Andy NFL,/mock-drafts/2026/andy-nfl-2026?date=2026-03-24,03/24/26
 1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",ESPN,/mock-drafts/2026/espn-2026-field-yates?date=2026-03-24,03/24/26
 2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,David Bailey,"EDGE, Texas Tech",ESPN,/mock-drafts/2026/espn-2026-field-yates?date=2026-03-24,03/24/26
 3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Arvell Reese,"LB, Ohio State",ESPN,/mock-drafts/2026/espn-2026-field-yates?date=2026-03-24,03/24/26
@@ -63,6 +191,38 @@ pick,team,team_img,player,player_details,source,url_path,date
 30,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Kevin Concepcion,"WR, Texas A&M",ESPN,/mock-drafts/2026/espn-2026-field-yates?date=2026-03-24,03/24/26
 31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,Denzel Boston,"WR, Washington",ESPN,/mock-drafts/2026/espn-2026-field-yates?date=2026-03-24,03/24/26
 32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Avieon Terrell,"CB, Clemson",ESPN,/mock-drafts/2026/espn-2026-field-yates?date=2026-03-24,03/24/26
+1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Arvell Reese,"LB, Ohio State",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Francis Mauigoa,"OT, Miami (FL)",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,David Bailey,"EDGE, Texas Tech",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Mansoor Delane,"CB, LSU",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+6,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Monroe Freeling,"OT, Georgia",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,Jeremiyah Love,"RB, Notre Dame",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,Makai Lemon,"WR, USC",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Rueben Bain,"EDGE, Miami (FL)",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,Sonny Styles,"LB, Ohio State",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Carnell Tate,"WR, Ohio State",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Caleb Downs,"S, Ohio State",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Spencer Fano,"OT, Utah",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Kenyon Sadiq,"TE, Oregon",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+15,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Jordyn Tyson,"WR, Arizona State",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Kevin Concepcion,"WR, Texas A&M",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+17,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Kadyn Proctor,"OT, Alabama",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Dillon Thieneman,"S, Oregon",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Jermod McCoy,"CB, Tennessee",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Avieon Terrell,"CB, Clemson",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Omar Cooper Jr.,"WR, Indiana",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,Keldric Faulk,"EDGE, Auburn",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Caleb Lomu,"OT, Utah",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Denzel Boston,"WR, Washington",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,Malachi Lawrence,"EDGE, UCF",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,Olaivavega Ioane,"IOL, Penn State",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,Cashius Howell,"EDGE, Texas A&M",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,Blake Miller,"OT, Clemson",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Peter Woods,"DL, Clemson",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+30,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Akheem Mesidor,"EDGE, Miami (FL)",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,R Mason Thomas,"EDGE, Oklahoma",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
+32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Chase Bisontis,"IOL, Texas A&M",A To Z Sports,/mock-drafts/2026/a-to-z-sports-2026-a-j-schulte?date=2026-03-24,03/24/26
 1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",Penn Live,/mock-drafts/2026/penn-live-2026-johnny-mcgonigal?date=2026-03-24,03/24/26
 2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Arvell Reese,"LB, Ohio State",Penn Live,/mock-drafts/2026/penn-live-2026-johnny-mcgonigal?date=2026-03-24,03/24/26
 3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Francis Mauigoa,"OT, Miami (FL)",Penn Live,/mock-drafts/2026/penn-live-2026-johnny-mcgonigal?date=2026-03-24,03/24/26
@@ -2399,163 +2559,3 @@ pick,team,team_img,player,player_details,source,url_path,date
 30,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/0l6xxqizh73gkq4mqqlc9lrsj1vl,Caleb Lomu,"OT, Utah",Bears Wire,/mock-drafts/2026/bears-wire-2026-vincent-parise?date=2026-03-16,03/16/26
 31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,Cashius Howell,"EDGE, Texas A&M",Bears Wire,/mock-drafts/2026/bears-wire-2026-vincent-parise?date=2026-03-16,03/16/26
 32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Brandon Cisse,"CB, South Carolina",Bears Wire,/mock-drafts/2026/bears-wire-2026-vincent-parise?date=2026-03-16,03/16/26
-1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Arvell Reese,"LB, Ohio State",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Francis Mauigoa,"OT, Miami (FL)",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,Jeremiyah Love,"RB, Notre Dame",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Sonny Styles,"LB, Ohio State",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-6,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Spencer Fano,"OT, Utah",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,Carnell Tate,"WR, Ohio State",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,Jordyn Tyson,"WR, Arizona State",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Caleb Downs,"S, Ohio State",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,David Bailey,"EDGE, Texas Tech",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Mansoor Delane,"CB, LSU",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Jermod McCoy,"CB, Tennessee",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Makai Lemon,"WR, USC",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Rueben Bain,"EDGE, Miami (FL)",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-15,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Kenyon Sadiq,"TE, Oregon",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Emmanuel McNeil-Warren,"S, Toledo",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-17,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Kadyn Proctor,"OT, Alabama",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Dillon Thieneman,"S, Oregon",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Peter Woods,"DL, Clemson",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Keldric Faulk,"EDGE, Auburn",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Kayden McDonald,"DL, Ohio State",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,Olaivavega Ioane,"IOL, Penn State",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Akheem Mesidor,"EDGE, Miami (FL)",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Denzel Boston,"WR, Washington",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,Max Iheanachor,"OT, Arizona State",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,Zion Young,"EDGE, Missouri",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,Monroe Freeling,"OT, Georgia",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,Caleb Lomu,"OT, Utah",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Blake Miller,"OT, Clemson",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-30,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/0l6xxqizh73gkq4mqqlc9lrsj1vl,Lee Hunter,"DL, Texas Tech",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,C.J. Allen,"LB, Georgia",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Chris Johnson,"CB, San Diego State",Pro Football Network,/mock-drafts/2026/pro-football-network-2026-reese-decker?date=2026-03-16,03/16/26
-1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Arvell Reese,"LB, Ohio State",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Francis Mauigoa,"OT, Miami (FL)",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,Jeremiyah Love,"RB, Notre Dame",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Carnell Tate,"WR, Ohio State",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-6,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Sonny Styles,"LB, Ohio State",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,David Bailey,"EDGE, Texas Tech",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,Rueben Bain,"EDGE, Miami (FL)",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Spencer Fano,"OT, Utah",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,Caleb Downs,"S, Ohio State",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Mansoor Delane,"CB, LSU",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Jermod McCoy,"CB, Tennessee",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Monroe Freeling,"OT, Georgia",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Jordyn Tyson,"WR, Arizona State",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-15,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Akheem Mesidor,"EDGE, Miami (FL)",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Makai Lemon,"WR, USC",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-17,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Keldric Faulk,"EDGE, Auburn",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Kayden McDonald,"DL, Ohio State",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Denzel Boston,"WR, Washington",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Dillon Thieneman,"S, Oregon",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Olaivavega Ioane,"IOL, Penn State",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,Kadyn Proctor,"OT, Alabama",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Max Iheanachor,"OT, Arizona State",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Kevin Concepcion,"WR, Texas A&M",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,Peter Woods,"DL, Clemson",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,T.J. Parker,"EDGE, Clemson",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,Cashius Howell,"EDGE, Texas A&M",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,Blake Miller,"OT, Clemson",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Brandon Cisse,"CB, South Carolina",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-30,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/0l6xxqizh73gkq4mqqlc9lrsj1vl,Kenyon Sadiq,"TE, Oregon",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,Caleb Lomu,"OT, Utah",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,C.J. Allen,"LB, Georgia",Bleacher Nation,/mock-drafts/2026/bleacher-nation-2026-matt-rooney?date=2026-03-16,03/16/26
-1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Arvell Reese,"LB, Ohio State",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Francis Mauigoa,"OT, Miami (FL)",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,Jeremiyah Love,"RB, Notre Dame",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Caleb Downs,"S, Ohio State",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-6,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Carnell Tate,"WR, Ohio State",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,Sonny Styles,"LB, Ohio State",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,David Bailey,"EDGE, Texas Tech",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Mansoor Delane,"CB, LSU",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,Rueben Bain,"EDGE, Miami (FL)",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Olaivavega Ioane,"IOL, Penn State",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Jermod McCoy,"CB, Tennessee",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Makai Lemon,"WR, USC",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Jordyn Tyson,"WR, Arizona State",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-15,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Keldric Faulk,"EDGE, Auburn",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Kayden McDonald,"DL, Ohio State",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-17,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Spencer Fano,"OT, Utah",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Dillon Thieneman,"S, Oregon",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Kenyon Sadiq,"TE, Oregon",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,C.J. Allen,"LB, Georgia",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Kevin Concepcion,"WR, Texas A&M",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,T.J. Parker,"EDGE, Clemson",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Caleb Lomu,"OT, Utah",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Monroe Freeling,"OT, Georgia",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,Cashius Howell,"EDGE, Texas A&M",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,Jake Golday,"LB, Cincinnati",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,Omar Cooper Jr.,"WR, Indiana",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,Caleb Banks,"DL, Florida",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Denzel Boston,"WR, Washington",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-30,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/0l6xxqizh73gkq4mqqlc9lrsj1vl,Peter Woods,"DL, Clemson",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,Akheem Mesidor,"EDGE, Miami (FL)",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Avieon Terrell,"CB, Clemson",SI,/mock-drafts/2026/si-2026-justin-melo?date=2026-03-16,03/16/26
-1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,David Bailey,"EDGE, Texas Tech",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Arvell Reese,"LB, Ohio State",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,Jeremiyah Love,"RB, Notre Dame",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Caleb Downs,"S, Ohio State",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Monroe Freeling,"OT, Georgia",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,Carnell Tate,"WR, Ohio State",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,Mansoor Delane,"CB, LSU",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Francis Mauigoa,"OT, Miami (FL)",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,Sonny Styles,"LB, Ohio State",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Spencer Fano,"OT, Utah",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Jermod McCoy,"CB, Tennessee",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Denzel Boston,"WR, Washington",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Rueben Bain,"EDGE, Miami (FL)",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-15,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Akheem Mesidor,"EDGE, Miami (FL)",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Makai Lemon,"WR, USC",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-17,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Jordyn Tyson,"WR, Arizona State",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Dillon Thieneman,"S, Oregon",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Kenyon Sadiq,"TE, Oregon",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Peter Woods,"DL, Clemson",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Olaivavega Ioane,"IOL, Penn State",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,T.J. Parker,"EDGE, Clemson",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Blake Miller,"OT, Clemson",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Caleb Lomu,"OT, Utah",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,Emmanuel McNeil-Warren,"S, Toledo",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,Keldric Faulk,"EDGE, Auburn",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,Avieon Terrell,"CB, Clemson",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,Omar Cooper Jr.,"WR, Indiana",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Colton Hood,"CB, Tennessee",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-30,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/0l6xxqizh73gkq4mqqlc9lrsj1vl,Caleb Banks,"DL, Florida",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,Kadyn Proctor,"OT, Alabama",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Jadarian Price,"RB, Notre Dame",USA Today,/mock-drafts/2026/usa-today-2026?date=2026-03-16,03/16/26
-1,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/wce65esozohwhhfu9buy5wcnsoq3,Fernando Mendoza,"QB, Indiana",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Arvell Reese,"LB, Ohio State",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/5odyoaskz0s5ihgt1xe4k8dh098l,Francis Mauigoa,"OT, Miami (FL)",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-4,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/10o0j5de5sqlzspxxroojsuyouni,Jeremiyah Love,"RB, Notre Dame",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-5,New York Giants,https://www.nflmockdraftdatabase.com/assets/logos/giants_alt.svg,Sonny Styles,"LB, Ohio State",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-6,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Carnell Tate,"WR, Ohio State",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/w6k4qaiynbvyn306zrzrrj6w555b,David Bailey,"EDGE, Texas Tech",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-8,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/4eilxubn810qt0g49si3lufpmna5,Rueben Bain,"EDGE, Miami (FL)",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-9,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Mansoor Delane,"CB, LSU",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-10,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/o65f4ic0q1imb3plaektqj503ea9,Olaivavega Ioane,"IOL, Penn State",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-11,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/lzktfr6dhb3aifr0duiamn4gf2qr,Caleb Downs,"S, Ohio State",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-12,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,C.J. Allen,"LB, Georgia",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-13,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/pdmammif0sowou8yealaa04xvul9,Dillon Thieneman,"S, Oregon",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/l3c3j9tg15hi8c9uwjh63zos2wq9,Makai Lemon,"WR, USC",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-15,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/msuxos8ly0nc1k8hdoqwu4i474gy,Akheem Mesidor,"EDGE, Miami (FL)",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-16,New York Jets,https://d9ioojyvhqpok.cloudfront.net/q24gwl057wr8m45j721lyzcmo02y,Omar Cooper Jr.,"WR, Indiana",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-17,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/pgwup27hjja1jlr4t28j28vhj0zg,Spencer Fano,"OT, Utah",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-18,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/k1ggxqxvbcnv1mayof382efyw1jh,Emmanuel McNeil-Warren,"S, Toledo",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/fr0fbqfjezey73pseroeemh6dkdb,Monroe Freeling,"OT, Georgia",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-20,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/zsuzkt2f9wsdhd2jop9y52t0o23v,Keldric Faulk,"EDGE, Auburn",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-21,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/1dn51oaq9jcv4ru5y8d0ia6zi2v9,Kevin Concepcion,"WR, Texas A&M",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/j4p8yqb1an79ku7jag1o2n7zn7h1,Jermod McCoy,"CB, Tennessee",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-23,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/1ldfq04ko2t2zhj98gk9ivjavhtj,Kenyon Sadiq,"TE, Oregon",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-24,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/xsthe9aa7zugcfnftaqb5oalxaz5,Ty Simpson,"QB, Alabama",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-25,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/deocbi3xlwoftxf811tstkfpwco0,T.J. Parker,"EDGE, Clemson",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/a12blaj51bmw2yl495jrpzqzlmx3,Avieon Terrell,"CB, Clemson",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-27,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/ir7u6astb3jm8rtcwnnzffzgjj7u,Christen Miller,"DL, Georgia",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-28,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/vldmo1l0bjoegyp2z92vnjrvyu15,Emmanuel Pregnon,"IOL, Oregon",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/c446x9vx8lq2j6p7zkcfsihiokog,Denzel Boston,"WR, Washington",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-30,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/0l6xxqizh73gkq4mqqlc9lrsj1vl,Caleb Banks,"DL, Florida",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-31,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/vtc481ivfignu5ryapf3p5earoms,Caleb Lomu,"OT, Utah",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
-32,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/vc8adiakazhr4lp4ri5nfq7fo3x3,Kadyn Proctor,"OT, Alabama",NFL Trade Rumors,/mock-drafts/2026/nfl-trade-rumors-2026-ethan-woodle?date=2026-03-16,03/16/26
